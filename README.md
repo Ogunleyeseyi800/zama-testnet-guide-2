@@ -1,1 +1,1 @@
-# zama-testnet-guide-2
+# zama-testnet-guide-2.1
